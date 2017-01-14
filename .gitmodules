@@ -1,15 +1,15 @@
 [submodule "lua-postgres"]
-	path = lua-postgres
+	path = modules/lua-postgres
 	url = https://github.com/ttfkam/pgmoon.git
 [submodule "pg_geekspeak"]
-	path = pg-geekspeak
+	path = modules/pg-geekspeak
 	url = https://github.com/ttfkam/pg_geekspeak
 [submodule "pg_audit"]
-	path = pg-audit
+	path = modules/pg-audit
 	url = https://github.com/ttfkam/pg_audit
 [submodule "pg_content_utils"]
-	path = pg-content-utils
+	path = modules/pg-content-utils
 	url = https://github.com/ttfkam/pg_content_utils
 [submodule "pg_newsfeeds"]
-	path = pg-newsfeeds
+	path = modules/pg-newsfeeds
 	url = https://github.com/ttfkam/pg_newsfeeds
